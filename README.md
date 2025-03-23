@@ -144,7 +144,7 @@ This project is open-source and free to use for educational purposes.
 
 ## Contributors
 
-- **[Your Name]** (Developer)
+- **Rohit Pandey** (Developer)
 - **Contributions are welcome!** Feel free to open an issue or submit a pull request.
 
 Happy Coding! 🚀
